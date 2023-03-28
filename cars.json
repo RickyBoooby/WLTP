@@ -1,5 +1,4 @@
-{
-  "cars": [
+ [
     {
       "model": "Lucid Air Grand Touring",
       "battery": 112,
@@ -694,4 +693,3 @@
       "tesla3": 414
     }
   ]
-}
